@@ -26,6 +26,6 @@ While this app is compatible with small screens, it was not designed mobile firs
 
 ```bash
 
-git clone https://github.com/carabc/iTunes-Search-Web-App.git
+git clone https://github.com/arauthub/arauthub.git
 
 ```
