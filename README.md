@@ -1,5 +1,11 @@
 # iTunes Apple Music Databse Search Web App
 
+# Steps to run the application locally
+
+1. Clone the repo from https://github.com/arauthub/arauthub/tree/assignment-01
+2. just double click on the index.html and it will start working.
+3. Type in whatever the Artist name the result will be displayedaccordingly.
+
 ## Search the Apple Music database for the musical work of any artist.
 
 This web app was built with the sole purpose of practicing my Javascript skills.
